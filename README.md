@@ -1,2 +1,3 @@
 # tugas-individu-1
-# Screenshot
+<h4>Screenshot<h4>
+<img src="tugas1.jpg">
